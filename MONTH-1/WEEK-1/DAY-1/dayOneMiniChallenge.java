@@ -14,6 +14,7 @@ public class dayOneMiniChallenge {
      * Status : Started
      * ==============================
      */
+    
     public static void main(String[] args){
         System.out.println("===============================");
         System.out.println("JAVA DSA JOURNEY");
