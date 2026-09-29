@@ -8,7 +8,7 @@ public class day6Challenge {
         System.out.println("3. Withdraw");
         System.out.println("4. Exit");
         System.out.println();
-        double balance = 0;
+        double balance = 500;
         System.out.print("Enter your choice : ");
         int choice = input.nextInt();
         
@@ -18,13 +18,23 @@ public class day6Challenge {
                 break;
             case 2:
                 System.out.print("Enter amount to deposit : ");
-                double depositAmount = 
+                double depositAmount = input.nextDouble();
+                balance += depositAmount;
+                System.out.println("New Balance = " + balance);
                 break;
             case 3:
-                System.out.println("Balance = " + balance + " $");
+                System.out.print("Enter amount to withdraw : ");
+                double withdrawAmount = input.nextDouble();
+                if(withdrawAmount > balance) {
+                    System.out.println("Insufficient balance!");
+                }else{
+                    balance -= withdrawAmount;
+                    System.out.println("Successfully Withdrawn Amount = " + withdrawAmount);
+                    System.out.println("New Balance = " + balance);
+                }
                 break;
             case 4:
-                System.out.println("Balance = " + balance + " $");
+                System.out.println("you have exited the ATM. Thank you for using our service!");
                 break;
             
             default:
