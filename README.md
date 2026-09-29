@@ -197,7 +197,7 @@ DSA.
 -   `default`.
 -   Modern switch awareness.
 -   Combine conditions and switch.
--   DATE = 28/09/2026 --------------------------------------------------------------------------------- COMPLETED
+-   DATE = 29/09/2026 --------------------------------------------------------------------------------- COMPLETED
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
@@ -211,6 +211,7 @@ DSA.
 8.  Check whether a number is divisible by both 3 and 5.
 9.  Calculate a student's grade from marks.
 10. Find the absolute difference between two numbers.
+-   DATE = 29/09/2026 --------------------------------------------------------------------------------- COMPLETED
 
 **Weekly target: 10 DSA/problem-solving questions**
 
