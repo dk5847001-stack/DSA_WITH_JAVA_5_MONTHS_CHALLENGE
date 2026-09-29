@@ -188,6 +188,7 @@ DSA.
 -   Multiple conditions.
 -   Ternary operator.
 -   Boundary cases.
+-   DATE = 28/09/2026 --------------------------------------------------------------------------------- COMPLETED
 
 ### Day 6 --- switch + Mixed Problems
 
@@ -196,6 +197,7 @@ DSA.
 -   `default`.
 -   Modern switch awareness.
 -   Combine conditions and switch.
+-   DATE = 28/09/2026 --------------------------------------------------------------------------------- COMPLETED
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
