@@ -224,6 +224,7 @@ DSA.
 -   `for` loop.
 -   Loop initialization, condition and update.
 -   Counting patterns.
+-   DATE = 29/09/2026 --------------------------------------------------------------------------------- COMPLETED
 
 ### Day 2
 
