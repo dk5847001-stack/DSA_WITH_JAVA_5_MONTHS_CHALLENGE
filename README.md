@@ -6,6 +6,45 @@
 > **Goal:** Zero-level Java → Strong Core Java → DSA Foundations →
 > Advanced DSA → Interview-Level Problem Solving
 
+
+
+------------------------------------------------------------------------
+
+## 🗓️ 5-Month Challenge Deadline System
+
+**Official Start:** 22 September 2026  
+**Official Final Completion:** **22 February 2027**
+
+A strict 20-week schedule starting on **22 September 2026** reaches its 20th weekly checkpoint on **9 February 2027**. Therefore, **22 February 2027 is the absolute final completion deadline**, with 10–22 February reserved for backlog clearance, revision and final assessment.
+
+### Premium Weekly Deadline Calendar
+
+| Milestone | Deadline |
+|---|---|
+| Week 1 | **29 Sep 2026** |
+| Week 2 | **6 Oct 2026** |
+| Week 3 | **13 Oct 2026** |
+| Week 4 | **20 Oct 2026** |
+| Week 5 | **27 Oct 2026** |
+| Week 6 | **3 Nov 2026** |
+| Week 7 | **10 Nov 2026** |
+| Week 8 | **17 Nov 2026** |
+| Week 9 | **24 Nov 2026** |
+| Week 10 | **1 Dec 2026** |
+| Week 11 | **8 Dec 2026** |
+| Week 12 | **15 Dec 2026** |
+| Week 13 | **22 Dec 2026** |
+| Week 14 | **29 Dec 2026** |
+| Week 15 | **5 Jan 2027** |
+| Week 16 | **12 Jan 2027** |
+| Week 17 | **19 Jan 2027** |
+| Week 18 | **26 Jan 2027** |
+| Week 19 | **2 Feb 2027** |
+| Week 20 | **9 Feb 2027** |
+| 🏁 Final Completion | **22 Feb 2027** |
+
+> **Deadline Rule:** Every weekly milestone should be completed by **11:59 PM on its deadline date**. The 10–22 February window is a final mastery buffer, not a substitute for weekly progress.
+
 ------------------------------------------------------------------------
 
 ## 🎯 Roadmap Objective
@@ -1499,7 +1538,7 @@ You should be able to:
 
 ------------------------------------------------------------------------
 
-# 🚀 Rules for the Entire 150-Day Journey
+# 🚀 Rules for the Entire 5-Month Challenge
 
 ### Rule 1 --- Consistency \> Speed
 
@@ -1558,3 +1597,14 @@ Final Focus    : Interview-Level Problem Solving
 
 > **Start with Day 1. Do not skip Java fundamentals. Strong DSA comes
 > from strong programming fundamentals + repeated problem solving.**
+
+
+------------------------------------------------------------------------
+
+# 🏁 FINAL COMPLETION WINDOW — 10 February → 22 February 2027
+
+Use this final window for backlog clearance, weak-topic revision, re-solving failed problems, DSA pattern revision and the final 3-hour assessment.
+
+## 🏆 Absolute Final Deadline: 22 February 2027
+
+By this date, the complete Java + DSA roadmap, **240+ quality practice problems**, revision cycle and interview preparation target should be complete.
