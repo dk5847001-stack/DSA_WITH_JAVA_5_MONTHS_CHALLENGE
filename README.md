@@ -240,20 +240,7 @@ DSA.
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
-1.  Check whether a number is even or odd.
-2.  Check whether a number is positive, negative or zero.
-3.  Find the maximum of two numbers.
-4.  Find the maximum of three numbers.
-5.  Check whether a year is a leap year.
-6.  Check whether a character is a vowel or consonant.
-7.  Build a simple calculator using `switch`.
-8.  Check whether a number is divisible by both 3 and 5.
-9.  Calculate a student's grade from marks.
-10. Find the absolute difference between two numbers.
--   DATE = 29/09/2026 --------------------------------------------------------------------------------- COMPLETED
-
-**Weekly target: 10 DSA/problem-solving questions**
-
+> 🏁 **WEEKLY DEADLINE — 29 Sep 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 2 --- Loops + Number Algorithms
@@ -303,19 +290,7 @@ DSA.
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
-1.  Reverse a number.
-2.  Check whether a number is a palindrome.
-3.  Count digits of a number.
-4.  Find the sum of digits.
-5.  Find the product of digits.
-6.  Check whether a number is prime.
-7.  Print all primes in a range.
-8.  Find factorial of a number.
-9.  Find GCD and LCM of two numbers.
-10. Print the first N Fibonacci numbers.
-
-**Weekly target: 10 problems**
-
+> 🏁 **WEEKLY DEADLINE — 6 Oct 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 3 --- Methods + Arrays
@@ -362,19 +337,7 @@ DSA.
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
-1.  Find the sum of all array elements.
-2.  Find the maximum element.
-3.  Find the minimum element.
-4.  Find the second largest distinct element.
-5.  Reverse an array.
-6.  Perform linear search.
-7.  Count even and odd elements.
-8.  Check whether an array is sorted.
-9.  Find duplicate elements.
-10. Find the transpose of a matrix.
-
-**Weekly target: 10 problems**
-
+> 🏁 **WEEKLY DEADLINE — 13 Oct 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 4 --- Strings + OOP + Collections
@@ -430,37 +393,7 @@ DSA.
 
 ### Day 7 --- Weekly Practice: 10 Problems
 
-1.  Reverse a string.
-2.  Check whether a string is a palindrome.
-3.  Count vowels and consonants.
-4.  Count the frequency of each character.
-5.  Remove duplicate characters.
-6.  Find the first non-repeating character.
-7.  Check whether two strings are anagrams.
-8.  Reverse the words of a sentence.
-9.  Find the longest word in a sentence.
-10. Check whether one string is a rotation of another.
-
-### Month 1 Project
-
-**Student Management System**
-
-Required features:
-
--   Add student.
--   Remove student.
--   Search student.
--   Update student.
--   Display all students.
--   Sort students.
--   Store students using collections.
--   Validate input.
--   Handle exceptions.
-
-### Month 1 Total
-
-**10 + 10 + 10 + 10 = 40+ practice problems**
-
+> 🏁 **WEEKLY DEADLINE — 20 Oct 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 # 📅 MONTH 2 --- DSA Foundations
@@ -528,19 +461,7 @@ Build strong fundamentals in:
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Recursive sum from 1 to N.
-2.  Recursive factorial.
-3.  Recursive power.
-4.  Recursive Fibonacci.
-5.  Reverse a string recursively.
-6.  Check palindrome recursively.
-7.  Find maximum array element recursively.
-8.  Find array sum recursively.
-9.  Count occurrences recursively.
-10. Check whether an array is sorted recursively.
-11. Convert decimal to binary recursively.
-12. Find GCD recursively.
-
+> 🏁 **WEEKLY DEADLINE — 27 Oct 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 6 --- Searching + Sorting
@@ -580,19 +501,7 @@ Build strong fundamentals in:
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Implement linear search.
-2.  Implement iterative binary search.
-3.  Implement recursive binary search.
-4.  Find first occurrence.
-5.  Find last occurrence.
-6.  Find insertion position.
-7.  Search in a rotated sorted array.
-8.  Find a peak element.
-9.  Implement bubble sort.
-10. Implement selection sort.
-11. Implement insertion sort.
-12. Sort an array using merge sort.
-
+> 🏁 **WEEKLY DEADLINE — 3 Nov 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 7 --- Linked List + Stack + Queue
@@ -635,19 +544,7 @@ Build strong fundamentals in:
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Create and traverse a linked list.
-2.  Insert at beginning.
-3.  Insert at end.
-4.  Delete a node by value.
-5.  Reverse a linked list.
-6.  Find the middle node.
-7.  Detect a cycle.
-8.  Merge two sorted linked lists.
-9.  Implement a stack.
-10. Validate balanced parentheses.
-11. Implement a queue.
-12. Implement a circular queue.
-
+> 🏁 **WEEKLY DEADLINE — 10 Nov 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 8 --- Hashing + Two Pointers + Sliding Window
@@ -686,23 +583,7 @@ Build strong fundamentals in:
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Two Sum.
-2.  Contains Duplicate.
-3.  Valid Anagram.
-4.  Group Anagrams.
-5.  Longest Consecutive Sequence.
-6.  Remove Duplicates from Sorted Array.
-7.  Move Zeroes.
-8.  Two Sum in a sorted array.
-9.  Container With Most Water.
-10. Maximum Sum Subarray of Size K.
-11. Longest Substring Without Repeating Characters.
-12. Minimum Size Subarray Sum.
-
-### Month 2 Total
-
-**12 + 12 + 12 + 12 = 48+ DSA problems**
-
+> 🏁 **WEEKLY DEADLINE — 17 Nov 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 # 📅 MONTH 3 --- Trees, Heap, Greedy, Backtracking & Trie
@@ -753,19 +634,7 @@ require recursive state management.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Preorder traversal.
-2.  Inorder traversal.
-3.  Postorder traversal.
-4.  Level-order traversal.
-5.  Maximum depth of binary tree.
-6.  Count total nodes.
-7.  Count leaf nodes.
-8.  Check if two trees are identical.
-9.  Check if a tree is balanced.
-10. Find diameter of a binary tree.
-11. Find maximum path-related value.
-12. Find Lowest Common Ancestor.
-
+> 🏁 **WEEKLY DEADLINE — 24 Nov 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 10 --- BST + Heap
@@ -805,19 +674,7 @@ require recursive state management.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Search in a BST.
-2.  Insert into a BST.
-3.  Delete a BST node.
-4.  Find minimum in BST.
-5.  Find maximum in BST.
-6.  Validate a BST.
-7.  Find kth smallest in BST.
-8.  Find kth largest in BST.
-9.  Find top K largest elements.
-10. Find kth largest element.
-11. Merge K sorted lists/arrays using a heap.
-12. Find the K most frequent elements.
-
+> 🏁 **WEEKLY DEADLINE — 1 Dec 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 11 --- Greedy + Backtracking
@@ -856,19 +713,7 @@ require recursive state management.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Activity Selection.
-2.  Fractional Knapsack.
-3.  Job Sequencing with Deadlines.
-4.  Jump Game.
-5.  Gas Station.
-6.  Minimum number of coins for a canonical coin system.
-7.  Generate all subsets.
-8.  Generate all permutations.
-9.  Combination Sum.
-10. Generate valid parentheses.
-11. Solve N-Queens.
-12. Rat in a Maze.
-
+> 🏁 **WEEKLY DEADLINE — 8 Dec 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 12 --- Trie + Advanced Recursion
@@ -906,23 +751,7 @@ require recursive state management.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Implement Trie insertion.
-2.  Implement Trie search.
-3.  Implement Trie prefix search.
-4.  Word Dictionary with wildcard search.
-5.  Replace Words using Trie.
-6.  Word Search.
-7.  Word Search II.
-8.  Generate subsets with duplicates.
-9.  Generate unique permutations.
-10. Combination Sum II.
-11. Letter Combinations of a Phone Number.
-12. Palindrome Partitioning.
-
-### Month 3 Total
-
-**12 × 4 = 48+ DSA problems**
-
+> 🏁 **WEEKLY DEADLINE — 15 Dec 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 # 📅 MONTH 4 --- Graph + Dynamic Programming
@@ -971,19 +800,7 @@ Dynamic Programming.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Build an adjacency list.
-2.  BFS traversal.
-3.  DFS traversal.
-4.  Count connected components.
-5.  Number of islands.
-6.  Flood Fill.
-7.  Find a path between two vertices.
-8.  Detect cycle in an undirected graph.
-9.  Detect cycle in a directed graph.
-10. Clone Graph.
-11. Rotting Oranges.
-12. Surrounded Regions.
-
+> 🏁 **WEEKLY DEADLINE — 22 Dec 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 14 --- Topological Sort + DSU
@@ -1018,19 +835,7 @@ Dynamic Programming.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Course Schedule.
-2.  Course Schedule II.
-3.  Topological Sort.
-4.  Detect cycle using Kahn's algorithm.
-5.  Alien Dictionary.
-6.  Find eventual safe states.
-7.  Implement DSU.
-8.  Number of connected components using DSU.
-9.  Redundant Connection.
-10. Accounts Merge.
-11. Kruskal Minimum Spanning Tree.
-12. Network Connectivity operations.
-
+> 🏁 **WEEKLY DEADLINE — 29 Dec 2026 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 15 --- Shortest Path + MST
@@ -1065,19 +870,7 @@ Dynamic Programming.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Shortest path in an unweighted graph.
-2.  Network Delay Time.
-3.  Dijkstra shortest path.
-4.  Path With Minimum Effort.
-5.  Cheapest Flights Within K Stops.
-6.  Bellman-Ford implementation.
-7.  Detect negative cycle.
-8.  Floyd-Warshall implementation.
-9.  Find all-pairs shortest paths.
-10. Prim's MST.
-11. Min Cost to Connect All Points.
-12. Compare MST approaches on a sample graph.
-
+> 🏁 **WEEKLY DEADLINE — 5 Jan 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 16 --- Dynamic Programming Foundations
@@ -1110,23 +903,7 @@ Dynamic Programming.
 
 ### Day 7 --- Weekly Practice: 12 Problems
 
-1.  Fibonacci using memoization.
-2.  Fibonacci using tabulation.
-3.  Climbing Stairs.
-4.  Min Cost Climbing Stairs.
-5.  House Robber.
-6.  House Robber II.
-7.  0/1 Knapsack.
-8.  Subset Sum.
-9.  Partition Equal Subset Sum.
-10. Coin Change.
-11. Coin Change II.
-12. Target Sum.
-
-### Month 4 Total
-
-**12 × 4 = 48+ DSA problems**
-
+> 🏁 **WEEKLY DEADLINE — 12 Jan 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 # 📅 MONTH 5 --- Advanced DSA + Interview Preparation
@@ -1173,21 +950,7 @@ solving and interview preparation**.
 
 ### Day 7 --- Weekly Practice: 14 Problems
 
-1.  Longest Common Subsequence.
-2.  Longest Common Substring.
-3.  Longest Increasing Subsequence.
-4.  Number of Longest Increasing Subsequences.
-5.  Edit Distance.
-6.  Delete Operation for Two Strings.
-7.  Minimum ASCII Delete Sum.
-8.  Matrix Chain Multiplication.
-9.  Minimum Path Sum.
-10. Unique Paths.
-11. Unique Paths II.
-12. Longest Palindromic Subsequence.
-13. Palindromic Substrings.
-14. Burst Balloons.
-
+> 🏁 **WEEKLY DEADLINE — 19 Jan 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 18 --- Advanced DSA Patterns
@@ -1225,21 +988,7 @@ solving and interview preparation**.
 
 ### Day 7 --- Weekly Practice: 14 Problems
 
-1.  Next Greater Element I.
-2.  Next Greater Element II.
-3.  Daily Temperatures.
-4.  Stock Span.
-5.  Largest Rectangle in Histogram.
-6.  Maximal Rectangle.
-7.  Sliding Window Maximum.
-8.  Search on Answer using minimum feasible value.
-9.  Koko Eating Bananas.
-10. Capacity to Ship Packages Within D Days.
-11. Range Sum Query.
-12. Difference Array range updates.
-13. Single Number using XOR.
-14. Count set bits.
-
+> 🏁 **WEEKLY DEADLINE — 26 Jan 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 19 --- Mixed Interview Problem Solving
@@ -1270,21 +1019,7 @@ solving and interview preparation**.
 
 ### Day 7 --- Weekly Practice: 14 Problems
 
-1.  3Sum.
-2.  Product of Array Except Self.
-3.  Longest Consecutive Sequence.
-4.  Minimum Window Substring.
-5.  Trapping Rain Water.
-6.  Merge K Sorted Lists.
-7.  LRU Cache.
-8.  Binary Tree Maximum Path Sum.
-9.  Serialize and Deserialize Binary Tree.
-10. Word Ladder.
-11. Median of Two Sorted Arrays.
-12. Regular Expression Matching.
-13. Wildcard Matching.
-14. Minimum Cost to Connect Points.
-
+> 🏁 **WEEKLY DEADLINE — 2 Feb 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 ## Week 20 --- Final Revision + Mock Interviews
@@ -1329,31 +1064,7 @@ solving and interview preparation**.
 
 ### Day 7 --- Final Mock Assessment
 
-Complete a **3-hour mock interview**:
-
--   2 Easy problems.
--   2 Medium problems.
--   1 Advanced problem.
--   Complexity explanation for every solution.
--   No tutorial/solution during the test.
-
-Then document:
-
-``` text
-Total attempted:
-Solved independently:
-Solved with hint:
-Could not solve:
-Time management:
-Weak topics:
-Repeated mistakes:
-Next revision topics:
-```
-
-### Month 5 Total
-
-**14 × 4 = 56+ DSA problems**
-
+> 🏁 **WEEKLY DEADLINE — 9 Feb 2027 | 11:59 PM**
 ------------------------------------------------------------------------
 
 # 📈 Final Practice Distribution
