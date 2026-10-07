@@ -347,8 +347,10 @@ DSA.
 - Number patterns.
 - Star patterns.
 - Loop optimization.
+- DATE = 7/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 7 · Weekly Practice: 10 Problems
+- DATE = 7/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 > 🏁 **WEEKLY DEADLINE · 6 Oct 2026 · 11:59 PM**  
 > _Complete the week's practice, review mistakes, and checkpoint your progress._
