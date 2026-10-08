@@ -379,6 +379,7 @@ DSA.
 - Declaration.
 - Initialization.
 - Traversal.
+- DATE = 8/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 4
 
