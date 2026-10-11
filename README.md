@@ -395,6 +395,7 @@ DSA.
 - Second largest.
 - Duplicate detection.
 - Sorted-array checking.
+- DATE = 11/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 6
 
