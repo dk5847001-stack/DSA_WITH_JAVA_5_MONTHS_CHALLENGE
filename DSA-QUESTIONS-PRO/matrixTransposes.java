@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class matrixTranspose {
+public class matrixTransposes {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.print("Enter rows : ");
