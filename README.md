@@ -405,6 +405,7 @@ DSA.
 - DATE = 12/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 7 · Weekly Practice: 10 Problems
+- DATE = 13/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 > 🏁 **WEEKLY DEADLINE · 13 Oct 2026 · 11:59 PM**  
 > _Complete the week's practice, review mistakes, and checkpoint your progress._
