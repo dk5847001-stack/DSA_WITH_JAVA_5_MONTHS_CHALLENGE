@@ -429,6 +429,7 @@ DSA.
 - Append/insert/delete.
 - Reverse.
 - Performance awareness.
+- DATE = 14/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 3 · OOP Basics
 
