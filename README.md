@@ -438,6 +438,7 @@ DSA.
 - Constructor.
 - `this`.
 - Encapsulation.
+- DATE = 15/10/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 4 · OOP Advanced
 
