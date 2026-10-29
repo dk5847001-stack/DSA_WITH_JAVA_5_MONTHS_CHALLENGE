@@ -27,7 +27,7 @@ public class LinkedListOperations {
 
         // Size of LinkedList.......
         System.out.println(numbers.size());
-        
+
         // print element using loop.........
         for (int i = 0; i < numbers.size(); i++) {
             System.out.print(numbers.get(i) + " ");
@@ -36,8 +36,8 @@ public class LinkedListOperations {
 
         // Enhance for loop.....
         System.out.print("Enhance for loop : ");
-        for(int number : numbers){
-            System.out.print(number+" ");
+        for (int number : numbers) {
+            System.out.print(number + " ");
         }
     }
 }

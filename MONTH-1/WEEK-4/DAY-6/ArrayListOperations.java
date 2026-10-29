@@ -19,9 +19,9 @@ public class ArrayListOperations {
         marks.add(50);
         marks.add(50);
         System.out.println("----------");
-        System.out.println(Integer.valueOf(50));
+        System.out.println(Integer.valueOf(150));
         System.out.println(marks);
-        marks.remove(Integer.valueOf(50));
+        marks.remove(Integer.valueOf(40));
         System.out.println(marks);
     }
 }
