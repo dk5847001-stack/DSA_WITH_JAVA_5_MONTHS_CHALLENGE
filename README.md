@@ -466,6 +466,8 @@ DSA.
 - HashMap.
 - Iterator.
 - Comparable/Comparator introduction.
+- DATE = 29/10/2026 --------------------------------------------------------------------------------- COMPLETED
+
 
 #### Day 7 · Weekly Practice: 10 Problems
 
