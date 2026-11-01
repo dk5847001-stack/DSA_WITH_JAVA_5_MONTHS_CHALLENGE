@@ -509,6 +509,7 @@ Build strong fundamentals in:
 - Big O.
 - Constant, linear and quadratic complexity.
 - Input-size thinking.
+- DATE = 01/11/2026 --------------------------------------------------------------------------------- COMPLETED
 
 #### Day 2
 
