@@ -1,40 +1,33 @@
-# Graph DFS, visited state and components — Daily Knowledge
+# Breadth-First Search (BFS) — Daily Knowledge
 
 > MONTH-4 · WEEK-1 · DAY-3 | Daily learning journal
 
 ## 1. Core Knowledge
-- **Purpose:** Graph DFS, visited state and components is a graph algorithm / graph representation topic. Model vertices and edges explicitly, and identify whether edges are directed, weighted, or unweighted.
-- Choose adjacency lists for sparse graphs and adjacency matrices when dense connectivity or constant-time edge lookup is important.
-- Track visited / distance / parent / component state deliberately; initialize every state before traversal.
+- BFS uses a queue and explores level by level; in unweighted graphs it finds shortest path by edge count.
+- Mark visited when enqueuing to avoid duplicate queue entries.
+- Adjacency list BFS O(V+E) time, O(V) visited/queue space.
 
-## 2. Mental Model
-Write the invariant for each data structure. For every processed vertex or edge, explain why the recorded state is valid and what work remains.
+## 2. Why It Matters
+This concept strengthens your ability to design, read, debug, and explain Java programs. Focus on the reasoning behind each rule rather than memorizing syntax.
 
-## 3. Practical Workflow
-1. Draw a small graph and label vertices and edge weights.
-2. Decide the representation and initialize required arrays / queues / stacks / sets.
-3. Implement the algorithm in a focused Java method.
-4. Dry-run a connected case, a disconnected case, and a boundary case.
-5. Check the result against a manually derived answer.
+## 3. Practical Application
+Create a small Java example. Identify inputs, expected output, state changes, and assumptions. Trace a normal case and a boundary case manually, then compare the trace with the program output.
 
-## 4. Important Questions
-- Does the graph contain directed edges, negative weights, cycles, or disconnected components?
-- Can a vertex be visited more than once, and when should it be marked visited?
-- Which invariant guarantees that the next processing step is safe?
-- What is the effect of isolated vertices and parallel edges?
+## 4. Questions to Think About
+- What problem does this concept solve?
+- When is it appropriate, and when is another approach better?
+- Which edge case is easiest to overlook?
+- What invariant or rule proves the approach is correct?
 
-## 5. Complexity & Correctness
-- Express time in terms of vertices V and edges E; state how the chosen representation affects iteration cost.
-- Count auxiliary arrays, queues, stacks, heaps, parent structures, and distance tables.
-- Explain correctness using traversal invariants, relaxation properties, or the greedy choice condition as applicable.
+## 5. Complexity & Quality
+Describe time complexity in terms of input size. Count auxiliary memory separately from input storage; include stack and temporary structures where applicable. Test boundary conditions before considering the task complete.
 
-## 6. Daily Knowledge Check
-- [ ] Explain the graph model and algorithm without notes.
-- [ ] Implement one Java example from memory.
-- [ ] Dry-run at least two different graph shapes.
-- [ ] Test disconnected, isolated, and boundary cases.
-- [ ] State time and auxiliary-space complexity in V and E.
-- [ ] Record one common implementation bug.
+## 6. Daily Self-Test
+- [ ] Explain the core concept without notes.
+- [ ] Write a Java example from memory.
+- [ ] Dry-run two cases, including one edge case.
+- [ ] Identify a common bug and its prevention.
+- [ ] Summarize the learning in three sentences.
 
-## 7. One-Line Takeaway
-A graph algorithm is only as correct as its representation, state initialization, and invariant.
+## Key Takeaway
+A concept is mastered when you can explain it, implement it, test its boundaries, and justify its correctness and complexity.
