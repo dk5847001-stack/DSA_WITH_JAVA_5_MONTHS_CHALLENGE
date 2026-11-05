@@ -8,7 +8,7 @@
 - Track visited / distance / parent / component state deliberately; initialize every state before traversal.
 
 ## 2. Mental Model
-Start with a graph of three or four vertices. Trace the order in which vertices and edges are processed.
+Write the invariant for each data structure. For every processed vertex or edge, explain why the recorded state is valid and what work remains.
 
 ## 3. Practical Workflow
 1. Draw a small graph and label vertices and edge weights.
