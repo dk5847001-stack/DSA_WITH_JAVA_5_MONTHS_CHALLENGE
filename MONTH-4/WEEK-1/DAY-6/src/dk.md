@@ -3,12 +3,12 @@
 > MONTH-4 · WEEK-1 · DAY-6 | Daily learning journal
 
 ## 1. Core Knowledge
-- **Purpose:** Disjoint Set Union and Kruskal minimum spanning tree. Identify vertices, edges, direction, weights, and constraints before selecting a graph strategy.
+- **Focus:** Disjoint Set Union and Kruskal minimum spanning tree. Identify vertices, edges, direction, weights, and constraints before selecting a graph strategy.
 - Choose adjacency lists for sparse graphs and adjacency matrices when dense connectivity or constant-time edge lookup matters.
 - Track visited, distance, parent, component, or disjoint-set state deliberately; initialize all state before processing.
 
 ## 2. Mental Model
-Draw a small graph and trace each operation by hand. Record which vertices or edges are processed and what state changes.
+State the invariant maintained by each data structure. Explain why each update is valid and what work remains after it.
 
 ## 3. Practical Workflow
 1. Draw a small graph and label vertices and edge weights.
