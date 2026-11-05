@@ -3,12 +3,12 @@
 > MONTH-1 · WEEK-1 · DAY-2 | Daily learning journal
 
 ## 1. Core Knowledge
-- Variables and primitive data types is the focus of this study session; understand its purpose, inputs, outputs, and the conditions under which it is useful.
-- Identify the core data/state being maintained and the exact operation performed at each step.
-- In Java, choose suitable types and standard library tools; keep boundary conditions explicit.
+- **Purpose:** Variables and primitive data types solves a recurring programming task by applying a clearly defined set of operations to input data.
+- **Model:** identify input, output, state, invariant, and stopping condition before writing code.
+- **Java practice:** implement with clear methods, meaningful names, appropriate types, and explicit handling of empty, minimum, maximum, and duplicate cases where relevant.
 
 ## 2. Mental Model
-Break the topic into small operations. Explain what changes after each operation, what must remain true, and how the result is produced.
+Trace the algorithm one operation at a time. State what changes, what remains unchanged, and why the next step is valid.
 
 ## 3. Practical Workflow
 1. Restate the problem and write a small example by hand.
