@@ -8,7 +8,7 @@
 - In Java, choose data structures and numeric types that safely represent the required values.
 
 ## 2. Mental Model
-Build the solution from a small example. Trace each state transition and record why it is valid.
+Model the problem as a sequence of explicit states. For each transition, state its preconditions, effect, and why it preserves correctness. Compare a straightforward solution with the optimized pattern.
 
 ## 3. Practical Workflow
 1. Write a tiny input and manually calculate the expected result.
