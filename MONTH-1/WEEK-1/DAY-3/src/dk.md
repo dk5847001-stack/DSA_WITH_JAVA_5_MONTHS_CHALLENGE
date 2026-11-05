@@ -9,26 +9,26 @@
 - Precedence matters; use parentheses. Beware integer overflow and division by zero.
 
 ## 2. Why This Matters
-Understanding this topic helps you choose the right Java construct or algorithm, reason about correctness, and avoid relying on memorized code. In interviews and real programs, explain the assumptions, the steps, and why the solution works.
+This topic helps you reason about Java programs instead of memorizing syntax. Be able to explain the purpose, the assumptions, and the sequence of steps that make the approach correct.
 
 ## 3. Practical Connection
-Relate today's idea to a small program: identify the input, the expected output, the state or data being changed, and the edge cases. Trace one normal example and one boundary example by hand before running the code.
+Build a small Java example around this idea. Identify its input, expected output, state changes, and boundary cases. Trace one normal case and one edge case by hand before running it.
 
 ## 4. Think Like a Problem Solver
-- What problem does this concept solve, and when would you choose it?
-- Which assumptions must be true for the approach to work?
-- What is the smallest input that can expose a bug?
-- How would the solution behave for empty, minimum, maximum, duplicate, or invalid input where applicable?
+- What problem does this concept solve, and when should it be used?
+- Which assumptions must hold?
+- What smallest test case could reveal a bug?
+- How should empty, boundary, duplicate, or invalid input behave where relevant?
 
-## 5. Complexity & Correctness Habit
-State time complexity in terms of input size. Separate auxiliary space from input storage, and include recursion/stack/table memory when relevant. Do not claim an optimization without explaining which operations or memory it reduces.
+## 5. Complexity & Correctness
+Express time complexity using input size. Separate auxiliary space from input storage, and include stack or table memory when relevant. Explain why the algorithm is correct before claiming it is optimized.
 
 ## 6. Daily Knowledge Check
-- [ ] Explain the key ideas without opening the notes.
-- [ ] Write one short Java example from memory.
-- [ ] Dry-run at least two test cases and explain every state change.
-- [ ] Identify one common mistake and how to prevent it.
-- [ ] Summarize the topic in three sentences in your own words.
+- [ ] Explain the key ideas without notes.
+- [ ] Write one Java example from memory.
+- [ ] Dry-run two test cases and explain every step.
+- [ ] Identify one common mistake and its prevention.
+- [ ] Summarize the topic in three sentences.
 
 ## 7. One-Line Takeaway
 Knowledge becomes useful when you can explain it, implement it, test its boundaries, and justify its complexity.
